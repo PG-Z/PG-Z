@@ -1,7 +1,9 @@
-## 👋 Hello there, 我是[猪儿粑](https://aifeel.cn)！
+## 👋 Hello there, 我是[pg-z](https://aifeel.cn)！
 <p>👨‍💻 I'm a Developer. I like to try new technologies and develop some interesting open source projects</p>
+
+<h2>🤹 Social</h2>
 <a href="http://weibo.com/">
-  <img align="left" alt="猪儿粑 | 新浪微博" width="26px" src="https://cdn.aifeel.top/home/icon/weibo.svg" />
+  <img align="left" alt="pg-z | 新浪微博" width="26px" src="https://cdn.aifeel.top/home/icon/weibo.svg" />
 </a>
 <a href="https://twitter.com/">
   <img align="left" alt="-- | Twitter" width="26px" src="https://cdn.aifeel.top/home/icon/Twitter.svg" />
@@ -28,19 +30,20 @@
   <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" /> 
 </p>
+
 <h2>🤔 Summary</h2>
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=PG-Z&show_icons=true&theme=synthwave" alt="pg-z :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Z&langs_count=10&theme=synthwave&layout=compact" alt="pg-z :: Top Langs" />
 </p>
 
-## 推荐
+<h2>🤔 Recommend</h2>
 <p align="left">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=radical)](https://xxx)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=radical)](https://xxx)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=dracula)](https://xxx)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=gruvbox)](https://xxx)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=synthwave)](https://xxx)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=cobalt)](https://xxx)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yonglinzhu&repo=xxx&theme=merko)](https://xxx)
-</p>
+</p> -->
