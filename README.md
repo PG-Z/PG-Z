@@ -1,6 +1,7 @@
-<h2> 👋 Hello there, 我是[猪儿粑](https://aifeel.cn)！</h2>
-<p>👨‍💻 I'm a Developer. I like to try new technologies and develop some interesting open source projects</p>
+## 👋 Hello there, 我是[猪儿粑](https://aifeel.cn)！
 ---
+
+<p>👨‍💻 I'm a Developer. I like to try new technologies and develop some interesting open source projects</p>
 <a href="http://weibo.com/">
   <img align="left" alt="猪儿粑 | 新浪微博" width="26px" src="https://cdn.aifeel.top/home/icon/weibo.svg" />
 </a>
@@ -29,8 +30,6 @@
   <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" /> 
 </p>
-<br />
-<br />
 <h2>🤔 Summary</h2>
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=PG-Z&show_icons=true&theme=synthwave" alt="pg-z :: Profile Stats" />
