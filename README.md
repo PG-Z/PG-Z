@@ -1,7 +1,6 @@
 ## 👋 Hello there, 我是[pg-z](https://aifeel.cn)！
 <p>👨‍💻 I'm a Developer. I like to try new technologies and develop some interesting open source projects</p>
 
-<br />
 <h2>🤹 Social</h2>
 <a href="http://weibo.com/">
   <img align="left" alt="pg-z | 新浪微博" width="26px" src="https://cdn.aifeel.top/home/icon/weibo.svg" />
@@ -13,7 +12,6 @@
   <img align="left" alt="-- | Telegram Channel" width="26px" src="https://cdn.aifeel.top/home/icon/Telegram.svg" />
 </a>
 
-<br />
 <h2>🛠 Languages and tools</h2>
 <p>
   <img src="https://img.shields.io/badge/-React-00599C?logo=React&style=for-the-badge"/> 
@@ -32,14 +30,12 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" /> 
 </p>
 
-<br />
 <h2>🤔 Summary</h2>
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=PG-Z&show_icons=true&theme=synthwave" alt="pg-z :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Z&langs_count=10&theme=synthwave&layout=compact" alt="pg-z :: Top Langs" />
 </p>
 
-<br />
 <h2>🤔 Recommend</h2>
 <p align="left">
 
