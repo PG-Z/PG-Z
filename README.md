@@ -12,7 +12,7 @@
 <a href="https://t.me/">
   <img align="left" alt="-- | Telegram Channel" width="26px" src="https://cdn.aifeel.top/home/icon/Telegram.svg" />
 </a>
-</p>
+</p><br/>
 
 <h2>🛠 Languages and tools</h2>
 <p>
