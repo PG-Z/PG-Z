@@ -1,7 +1,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h2>👋 Hello there</h3>
-<p>👨‍💻 I'm a Frontend Developer. I like to try new technologies and develop some interesting open source projects</p>
-<p>📜 My website：<a href="https://songlh.top/" target="_blank">songlh.top</a>. will write some technical blogs and life records</p>
+<p>👨‍💻 I'm a Developer. I like to try new technologies and develop some interesting open source projects</p>
+<p>📜 My website：<a href="https://aifeel.top/" target="_blank">aifeel.top</a>. will write some life records</p>
 <p>🌱 I’m currently studying english</p>
 <h2>🛠 Languages and tools</h3>
 <p>
@@ -27,18 +27,3 @@
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=PG-Z&show_icons=true&theme=synthwave" alt="pg-z :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Z&langs_count=10&theme=synthwave&layout=compact" alt="pg-z :: Top Langs" />
 </p>
-
-<!--
-**PG-Z/PG-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
