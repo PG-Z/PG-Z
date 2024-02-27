@@ -2,7 +2,8 @@
 <p>👨‍💻 I'm a Developer. I like to try new technologies and develop some interesting open source projects</p>
 
 <h2>🤹 Social</h2>
-<a href="http://weibo.com/">
+<p>
+  <a href="http://weibo.com/">
   <img align="left" alt="pg-z | 新浪微博" width="26px" src="https://cdn.aifeel.top/home/icon/weibo.svg" />
 </a>
 <a href="https://twitter.com/">
@@ -11,6 +12,7 @@
 <a href="https://t.me/">
   <img align="left" alt="-- | Telegram Channel" width="26px" src="https://cdn.aifeel.top/home/icon/Telegram.svg" />
 </a>
+</p>
 
 <h2>🛠 Languages and tools</h2>
 <p>
