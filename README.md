@@ -22,12 +22,10 @@
 </p>
 
 
-<h2>🤔 Summary</h3>
-
-<p style="display: flex;align-items: left;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PG-Z&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Z&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=PG-Z.github.io" >
+<h2>🤔 Summary</h2>
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=PG-Z&show_icons=true&theme=synthwave" alt="pg-z :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Z&langs_count=10&theme=synthwave&layout=compact" alt="pg-z :: Top Langs" />
 </p>
 
 <!--
