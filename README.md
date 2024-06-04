@@ -44,8 +44,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PG-Z&repo=Summer-Cat&theme=radical)](https://github.com/PG-Z/Summer-Cat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PG-Z&repo=plugin-map-marker&theme=dracula)](https://github.com/PG-Z/plugin-map-marker) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Snell&theme=gruvbox)](https://github.com/xOS/Snell)
+[//]: # ([![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Snell&theme=gruvbox)](https://github.com/xOS/Snell)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=StatusPage&theme=synthwave)](https://github.com/xOS/StatusPage) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Home&theme=cobalt)](https://github.com/xOS/Home)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Nange&theme=merko)](https://github.com/xOS/Nange)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xOS&repo=Nange&theme=merko)](https://github.com/xOS/Nange))
 </p>
