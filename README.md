@@ -4,13 +4,13 @@
 <h2>🤹 Social</h2>
 <p>
   <a href="http://weibo.com/">
-  <img align="left" alt="pg-z | 新浪微博" width="26px" src="https://cdn.aifeel.top/home/icon/weibo.svg" />
+  <img align="left" alt="pg-z | 新浪微博" width="26px" src="https://cdn.jsdelivr.net/gh/PG-Z/common-assets/icon/weibo.svg" />
 </a>
 <a href="https://twitter.com/">
-  <img align="left" alt="-- | Twitter" width="26px" src="https://cdn.aifeel.top/home/icon/Twitter.svg" />
+  <img align="left" alt="-- | Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/PG-Z/common-assets/icon/Twitter.svg" />
 </a>
 <a href="https://t.me/">
-  <img align="left" alt="-- | Telegram Channel" width="26px" src="https://cdn.aifeel.top/home/icon/Telegram.svg" />
+  <img align="left" alt="-- | Telegram Channel" width="26px" src="https://cdn.jsdelivr.net/gh/PG-Z/common-assets/icon/Telegram.svg" />
 </a>
 </p><br/>
 
